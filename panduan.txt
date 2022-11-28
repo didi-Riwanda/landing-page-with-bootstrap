@@ -1,0 +1,14 @@
+ml-auto = untuk membuat tulisan menjadi kekiri
+mr-auto = untuk membuat tulisan menjadi kekanan (default kalau di bootstrap)
+
+google font untuk mencari font.
+caranya :
+1. cari nama font
+2. klau ketemu klik tanda tambah
+3. salin link href nya
+
+
+auto rename tag
+colorize
+css peek
+sebaiknya kapan melamar pekerjaan
